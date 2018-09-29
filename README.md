@@ -1,5 +1,7 @@
 # konvertierer-dateiumwandler
 
+Zum konventieren von Bildern und Pdf Dateien
+
 # Installieren
 ````
 git clone https://github.com/hendr5k/konvertierer-dateiumwandler-
