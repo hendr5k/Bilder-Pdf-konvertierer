@@ -1,4 +1,4 @@
-# konvertierer-dateiumwandler
+# Bilder/Pdf-konvertierer
 
 Zum konventieren von Bildern und Pdf Dateien
 
